@@ -4,7 +4,7 @@ A responsive front-end clone of the Razorpay website built using HTML, Tailwind 
 
 ## 🌐 Live Preview
 
-> []
+> [https://anubhabbiswas123.github.io/Razorpay/]
 ---
 ## 🛠️ Built With
 
